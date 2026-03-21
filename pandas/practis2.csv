@@ -1,0 +1,11 @@
+Employee,Department,Salary,Expi,Rating,tax
+Alice,HR,50000,5,3,5000.0
+Bob,IT,70000,8,4,7000.0
+Charlie,IT,75000,6,5,7500.0
+David,Finance,60000,10,4,6000.0
+Eve,HR,52000,4,3,5200.0
+Frank,Finance,58000,9,4,5800.0
+Grace,IT,80000,7,5,8000.0
+Henry,HR,55000,3,2,5500.0
+Ivy,Finance,62000,11,5,6200.0
+Jack,IT,90000,15,5,9000.0
